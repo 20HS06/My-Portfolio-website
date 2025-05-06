@@ -1,0 +1,25 @@
+#website{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.webbody{
+    background-color: rgb(231, 239, 247);
+}
+.separated_blog_list >div>h1{
+    font-size: 30px;
+    color: rgb(24, 24, 148);
+    text-align: left;
+    padding-left: 10px;
+    margin: 10px; 
+}
+
+.separated_blog_list >div >h4{
+    padding-left: 10px;
+    margin: 10px;
+}
+
+.separated_blog_list >div {
+    border: 1px;
+    border-style: solid;
+    border-color: darkslateblue;
+    box-sizing: border-box;
+}
